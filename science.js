@@ -1,1 +1,1 @@
-var name = "DevMountain"
+var city = 'provo'

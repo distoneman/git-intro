@@ -1,2 +1,1 @@
-var name = 'Dianne Stoneman';
-var city = 'Spanish Fork';
+var name = 'Dianne'
